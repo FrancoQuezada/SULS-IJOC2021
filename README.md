@@ -19,6 +19,14 @@ Data (instances of the SULS) is provided in a zip file which contains 3 folders.
 2) Folder Instances_s8_s12 contains instances with 8 and 12 stages.
 3) Folder Instances_s20 contains instances with 20 stages.
 
+Each instance is composed of a series of vectors that represent a set of relalization of the stochastic parameters in the following order. 
+
+1) Demand
+2) Set-up cost
+3) Inventory holding cost
+4) Realization probability 
+5) Production cost
+
 The code of the extSDDiP algorithm is provided in a zip file. 
 
 1) Main.cpp includes main functions for extSDDiP algorithm. 
