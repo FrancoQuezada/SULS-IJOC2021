@@ -7,9 +7,9 @@ This repository has as main objective to provide the relevant data, source code 
 
 Results are provided in three files.
 
-1) Results in Tables 1-4  and 6-9 of the manuscript can be found in Resume_SULS_IJOC2021.ods
-2) Results in Tables 10-13 of the manuscript can be found in Additional_Results_ExtSDDiP-II.ods
-3) Results in Table 14 of the manuscript can be found in Additional_Results_R1.ods
+1) Results in Tables 1-4  and 6-9 of the manuscript can be found in "Performance of each method at solving instances from Set 1, 2 and 3 of the SULS problem (extSDDiP-I and extSDDiP-I-II).ods"
+2) Results in Tables 10-13 of the manuscript can be found in "Performance of each method at solving instances from Set 1, 2 et 3  of the SULS problem (ExtSDDiP-II).ods"
+3) Results in Table 14 of the manuscript can be found in "Performance of each method at solving instances with Sigma=20  of the SULS problem (ExtSDDiP-I-II).ods"
 
 Each file contains self-explanatory header columns.
 
