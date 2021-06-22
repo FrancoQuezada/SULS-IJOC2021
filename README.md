@@ -1,6 +1,7 @@
 # SULS-IJOC2021
 
 date : 22/07/2021
+contact : franco.quezada@usach.cl
 
 This repository has as main objective to provide the relevant data, source code and results of the extSDDiP algorithm  published in INFORMS Journal on Computing.
 
