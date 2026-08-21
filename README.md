@@ -177,3 +177,5 @@ Please cite the article above when using this code, and see
 [CITATION.cff](CITATION.cff) for a machine-readable citation of both the
 article and this repository. This code is released under the [MIT
 License](LICENSE).
+
+Quezada, F., Gicquel, C., & Kedad-Sidhoum, S. (2022). Combining polyhedral approaches and stochastic dual dynamic integer programming for solving the uncapacitated lot-sizing problem under uncertainty. INFORMS Journal on Computing, 34(2), 1024-1041.
