@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use this code or the accompanying instances/results, please cite the
+  article below.
+title: >-
+  extSDDiP for the Stochastic Uncapacitated Lot-Sizing Problem -- reproducible
+  historical source
+authors:
+  - family-names: Quezada
+    given-names: Franco
+  - family-names: Gicquel
+    given-names: Céline
+  - family-names: Kedad-Sidhoum
+    given-names: Safia
+license: MIT
+preferred-citation:
+  type: article
+  title: >-
+    Combining Polyhedral Approaches and Stochastic Dual Dynamic Integer
+    Programming for Solving the Uncapacitated Lot-Sizing Problem Under
+    Uncertainty
+  authors:
+    - family-names: Quezada
+      given-names: Franco
+    - family-names: Gicquel
+      given-names: Céline
+    - family-names: Kedad-Sidhoum
+      given-names: Safia
+  journal: INFORMS Journal on Computing
+  year: 2022
+  volume: 34
+  issue: 2
+  start: 1024
+  end: 1041
+  doi: 10.1287/ijoc.2021.1118

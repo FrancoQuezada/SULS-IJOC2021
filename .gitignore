@@ -1,0 +1,14 @@
+# Build output
+/build/
+*.o
+*.obj
+
+# Fresh experiment output (curated historical results live in results/*.ods and results/*.csv)
+/results/runs/*
+!/results/runs/.gitkeep
+
+# Editor/OS cruft
+.vscode/
+.idea/
+*.swp
+.DS_Store
